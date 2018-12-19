@@ -1,0 +1,1147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bab8cd0-42f1-4172-932a-c57646947698" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/sbt/mipt/oop/event/tools/TestEventProvider.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/sbt/mipt/oop/commands/LightsOffHomeCommandTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/sbt/mipt/oop/commands/CommandTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/sbt/mipt/oop/commands/CloseHallDoorTurnLightsOffCommandTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/homecomponents/Alarm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1162#1163#0" expanded="true" />
+                <element signature="e#1195#1196#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/sbt/mipt/oop/homecomponents/AlarmTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/homecomponents/AlarmActivatedState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/sbt/mipt/oop/event/tools/HomeEventManagerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="969">
+              <caret line="65" column="32" selection-start-line="65" selection-start-column="32" selection-end-line="65" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/sbt/mipt/oop/event/processors/Loaders.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/initial_state_after_events_provider.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>executeAction</find>
+      <find>ccSensorEventManager</find>
+      <find>rooms</find>
+      <find>buttons</find>
+      <find>getAlarm</find>
+      <find>smart</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Naumov\Documents\GitHub\Principles_Of_Software_Design\Smart_Home_2018\src\main\java\ru\sbt\mipt\oop</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/event/processors/LightsEventProcessor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/event/tools/RandomSensorEventProvider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/command/CommandType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/event/processors/HallDoorEventProcessor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/event/tools/SensorEventType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/ext_lib_adapters/CCSensorEventManagerAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/ext_lib_adapters/EventProcessorAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/home_components/alarm/AlarmActivatedState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/home_components/alarm/AlarmOnAlertState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/home_components/Room.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/loaders/FileSmartHomeLoader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/remote/control/RemoteControl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/remote/control/StandardRemoteControl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/home_components/alarm/AlarmAlertState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/home_components/AlarmActivatedState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/home_components/AlarmAlertState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/home_components/AlarmDeactivatedState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/homecomponents/AlarmState.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/configuration.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/sbt/mipt/oop/event/processors/StartTestProcessor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/event/processors/Loaders.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Loaders.java" />
+        <option value="$PROJECT_DIR$/src/test/resourses/unchanging_sensor_events.json" />
+        <option value="$PROJECT_DIR$/src/test/resourses/doors_changing_sensor_events.json" />
+        <option value="$PROJECT_DIR$/src/test/resourses/lights_changing_sensor_events.json" />
+        <option value="$PROJECT_DIR$/src/test/resourses/state_after_door_events.json" />
+        <option value="$PROJECT_DIR$/src/test/resourses/state_after_lights_events.json" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/homecomponents/Alarm.java" />
+        <option value="$PROJECT_DIR$/src/main/test/java/ru/sbt/mipt/oop/commands/ActivateAlarmCommandTest.java" />
+        <option value="$PROJECT_DIR$/src/test/resourses/initial_state.json" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/sbt/mipt/oop/commands/ActivateAlarmCommandTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/sbt/mipt/oop/commands/ActivateAlertAlarmCommandTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/commands/LightsOnHallCommand.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/sbt/mipt/oop/event/processors/LightEventProcessorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/sbt/mipt/oop/commands/CommandTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/sbt/mipt/oop/commands/CloseHallDoorCommandTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/commands/CloseHallDoorTurnLightsOffCommand.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/close_hall_door_turn_lights_off_in_initial_state.json" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/sbt/mipt/oop/commands/CloseHallDoorTurnLightsOffCommandTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/sbt/mipt/oop/commands/LightsOffHomeCommandTest.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/turn_light_on_in_hall_in_initial_state.json" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/sbt/mipt/oop/commands/LightsOnHallCommandTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/sbt/mipt/oop/event/processors/DoorEventProcessorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/event/tools/HomeEventManager.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/test_events_provider.json" />
+        <option value="$PROJECT_DIR$/src/test/resources/initial_state_after_event_provider.json" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/sbt/mipt/oop/event/tools/HomeEventManagerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/events_provider.json" />
+        <option value="$PROJECT_DIR$/src/test/resources/initial_state_after_events_provider.json" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/sbt/mipt/oop/event/tools/TestEventProvider.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/sbt/mipt/oop/homecomponents/AlarmTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Maven Quick Start Archetype" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Maven Quick Start Archetype" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Maven Quick Start Archetype" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Maven Quick Start Archetype" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2674" />
+    <option name="y" value="-31" />
+    <option name="width" value="783" />
+    <option name="height" value="832" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>BadExpressionStatementJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="smart-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Smart_Home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smart-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Smart_Home" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value=";&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.sbt.mipt.oop.homecomponents" />
+      <recent name="ru.sbt.mipt.oop.event.tools" />
+      <recent name="ru.sbt.mipt.oop.commands" />
+      <recent name="ru.sbt.mipt.oop.event.processors" />
+      <recent name="ru.sbt.mipt.oop.command" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="ru.sbt.mipt.oop.command.CommandTest" />
+      <recent name="ru.sbt.mipt.oop.event_processors.EventProcessorTest" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ru.sbt.mipt.oop.event.processors" />
+      <recent name="" />
+      <recent name="ru.sbt.mipt.oop.event.event_processors.processors" />
+      <recent name="ru.sbt.mipt.oop.event.event_processors" />
+      <recent name="ru.sbt.mipt.oop" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GitHubFolder\Smart_Home\src\test\resourses" />
+      <recent name="D:\Загрузки\Smart_Home\src\test\java\ru\sbt\mipt\oop\event\processors" />
+      <recent name="C:\Users\Naumov\Documents\GitHub\Principles_Of_Software_Design\Smart_Home_2018\src\test\resources" />
+      <recent name="C:\Users\Naumov\Documents\GitHub\Principles_Of_Software_Design\Smart_Home_2018" />
+      <recent name="C:\Users\Naumov\Documents\GitHub\Principles_Of_Software_Design\Smart_Home_2018\src\main\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHubFolder\Smart_Home\src\test\resourses" />
+      <recent name="D:\Загрузки\Smart_Home\src\test\resourses" />
+      <recent name="C:\Users\Naumov\Documents\GitHub\Principles_Of_Software_Design\Smart_Home_2018" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.sbt.mipt.oop.event.processors" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.sbt.mipt.oop.event.processors" />
+      <recent name="com.coolcompany.smarthome.remote_control" />
+      <recent name="ru.sbt.mipt.oop.command" />
+      <recent name="ru.sbt.mipt.oop.action" />
+      <recent name="ru.sbt.mipt.oop.controls" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.AlarmTest.deactivateAlarm">
+    <configuration name="AlarmTest.activateAlarm" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="smart-home" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.sbt.mipt.oop.homecomponents.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.sbt.mipt.oop.homecomponents" />
+      <option name="MAIN_CLASS_NAME" value="ru.sbt.mipt.oop.homecomponents.AlarmTest" />
+      <option name="METHOD_NAME" value="activateAlarm" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlarmTest.deactivateAlarm" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="smart-home" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.sbt.mipt.oop.homecomponents.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.sbt.mipt.oop.homecomponents" />
+      <option name="MAIN_CLASS_NAME" value="ru.sbt.mipt.oop.homecomponents.AlarmTest" />
+      <option name="METHOD_NAME" value="deactivateAlarm" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlarmTest.invokeAlert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="smart-home" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.sbt.mipt.oop.homecomponents.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.sbt.mipt.oop.homecomponents" />
+      <option name="MAIN_CLASS_NAME" value="ru.sbt.mipt.oop.homecomponents.AlarmTest" />
+      <option name="METHOD_NAME" value="invokeAlert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeEventManagerTest.runEventsCycle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="smart-home" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.sbt.mipt.oop.event.tools.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.sbt.mipt.oop.event.tools" />
+      <option name="MAIN_CLASS_NAME" value="ru.sbt.mipt.oop.event.tools.HomeEventManagerTest" />
+      <option name="METHOD_NAME" value="runEventsCycle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ru.sbt.mipt.oop.event.processors in smart-home" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="smart-home" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.sbt.mipt.oop.event.processors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.sbt.mipt.oop.event.processors" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.HomeEventManagerTest.runEventsCycle" />
+      <item itemvalue="JUnit.ru.sbt.mipt.oop.event.processors in smart-home" />
+      <item itemvalue="JUnit.AlarmTest.activateAlarm" />
+      <item itemvalue="JUnit.AlarmTest.invokeAlert" />
+      <item itemvalue="JUnit.AlarmTest.deactivateAlarm" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AlarmTest.deactivateAlarm" />
+        <item itemvalue="JUnit.AlarmTest.invokeAlert" />
+        <item itemvalue="JUnit.AlarmTest.activateAlarm" />
+        <item itemvalue="JUnit.ru.sbt.mipt.oop.event.processors in smart-home" />
+        <item itemvalue="JUnit.HomeEventManagerTest.runEventsCycle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bab8cd0-42f1-4172-932a-c57646947698" name="Default Changelist" comment="" />
+      <created>1544352627539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544352627539</updated>
+      <workItem from="1544352633696" duration="9801000" />
+      <workItem from="1544373273040" duration="3252000" />
+      <workItem from="1544386344662" duration="35000" />
+      <workItem from="1544386417653" duration="33000" />
+      <workItem from="1544957336433" duration="16893000" />
+      <workItem from="1544975388470" duration="17000" />
+      <workItem from="1544982358886" duration="2866000" />
+      <workItem from="1544985953939" duration="73000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AlarmTest_activateAlarm - 2018.12.16 at 21h 20m 43s.xml">
+      <configuration name="AlarmTest.activateAlarm" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AlarmTest_activateAlarm - 2018.12.16 at 21h 21m 30s.xml">
+      <configuration name="AlarmTest.activateAlarm" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AlarmTest_invokeAlert - 2018.12.16 at 21h 22m 35s.xml">
+      <configuration name="AlarmTest.invokeAlert" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AlarmTest_invokeAlert - 2018.12.16 at 21h 24m 28s.xml">
+      <configuration name="AlarmTest.invokeAlert" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AlarmTest_deactivateAlarm - 2018.12.16 at 21h 41m 17s.xml">
+      <configuration name="AlarmTest.deactivateAlarm" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AlarmTest_deactivateAlarm - 2018.12.16 at 21h 41m 35s.xml">
+      <configuration name="AlarmTest.deactivateAlarm" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AlarmTest_deactivateAlarm - 2018.12.16 at 21h 42m 45s.xml">
+      <configuration name="AlarmTest.deactivateAlarm" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AlarmTest_deactivateAlarm - 2018.12.16 at 21h 43m 05s.xml">
+      <configuration name="AlarmTest.deactivateAlarm" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AlarmTest_deactivateAlarm - 2018.12.16 at 21h 44m 13s.xml">
+      <configuration name="AlarmTest.deactivateAlarm" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AlarmTest_deactivateAlarm - 2018.12.16 at 21h 45m 11s.xml">
+      <configuration name="AlarmTest.deactivateAlarm" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="32970000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23827292" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Learn" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32719547" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4182015" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4220963" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50067115" side_tool="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49932885" weight="0.32719547" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="Spring" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="right" id="Maven" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>smartHome</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>event</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>handler</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>eventManager.registerEventProcessor();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>eventManager.eventProcessors</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>@Override
+    public SensorEvent getNextSensorEvent() {
+        return null;
+    }
+}</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.smartHome</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.sensorEventsManager.toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/commands/CommandType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/ru.sbt.mipt.oop.commands">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>ru.sbt.mipt.oop.commands</OriginalElement>
+          <nodes>
+            <node x="393.0" y="89.0">ru.sbt.mipt.oop.commands.VoidCommand</node>
+            <node x="541.0" y="89.0">ru.sbt.mipt.oop.commands.CloseHallDoorCommand</node>
+            <node x="741.0" y="89.0">ru.sbt.mipt.oop.commands.LightsOffHomeCommand</node>
+            <node x="202.0" y="89.0">ru.sbt.mipt.oop.commands.LightsOnHallCommand</node>
+            <node x="1143.0" y="89.0">ru.sbt.mipt.oop.commands.ActivateAlertAlarmCommand</node>
+            <node x="579.5" y="0.0">ru.sbt.mipt.oop.commands.Command</node>
+            <node x="245.0" y="163.0">ru.sbt.mipt.oop.commands.CommandType</node>
+            <node x="945.0" y="89.0">ru.sbt.mipt.oop.commands.ActivateAlarmCommand</node>
+            <node x="0.0" y="163.0">ru.sbt.mipt.oop.commands.ActivateAlarmCommandTest</node>
+            <node x="0.0" y="89.0">ru.sbt.mipt.oop.commands.LightsOnHomeCommand</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="ru.sbt.mipt.oop.commands.LightsOnHallCommand" target="ru.sbt.mipt.oop.commands.Command">
+              <point x="0.0" y="-14.5" />
+              <point x="287.5" y="59.0" />
+              <point x="601.5714285714286" y="59.0" />
+              <point x="-29.428571428571445" y="14.5" />
+            </edge>
+            <edge source="ru.sbt.mipt.oop.commands.ActivateAlertAlarmCommand" target="ru.sbt.mipt.oop.commands.Command">
+              <point x="0.0" y="-14.5" />
+              <point x="1244.5" y="49.0" />
+              <point x="675.1428571428571" y="49.0" />
+              <point x="44.14285714285711" y="14.5" />
+            </edge>
+            <edge source="ru.sbt.mipt.oop.commands.ActivateAlarmCommand" target="ru.sbt.mipt.oop.commands.Command">
+              <point x="0.0" y="-14.5" />
+              <point x="1034.0" y="59.0" />
+              <point x="660.4285714285714" y="59.0" />
+              <point x="29.428571428571445" y="14.5" />
+            </edge>
+            <edge source="ru.sbt.mipt.oop.commands.CloseHallDoorCommand" target="ru.sbt.mipt.oop.commands.Command">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="ru.sbt.mipt.oop.commands.VoidCommand" target="ru.sbt.mipt.oop.commands.Command">
+              <point x="0.0" y="-14.5" />
+              <point x="457.0" y="69.0" />
+              <point x="616.2857142857143" y="69.0" />
+              <point x="-14.714285714285666" y="14.5" />
+            </edge>
+            <edge source="ru.sbt.mipt.oop.commands.LightsOffHomeCommand" target="ru.sbt.mipt.oop.commands.Command">
+              <point x="0.0" y="-14.5" />
+              <point x="833.0" y="69.0" />
+              <point x="645.7142857142858" y="69.0" />
+              <point x="14.71428571428578" y="14.5" />
+            </edge>
+            <edge source="ru.sbt.mipt.oop.commands.LightsOnHomeCommand" target="ru.sbt.mipt.oop.commands.Command">
+              <point x="0.0" y="-14.5" />
+              <point x="91.0" y="49.0" />
+              <point x="586.8571428571429" y="49.0" />
+              <point x="-44.14285714285711" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="210.0" y="-100.0" />
+          <SelectedNodes>
+            <node>ru.sbt.mipt.oop.commands.LightsOnHomeCommand</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/commands/ActivateAlarmCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="59" lean-forward="true" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/commands/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/commands/VoidCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/homecomponents/AlarmDeactivatedState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/homecomponents/AlarmState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/homecomponents/Door.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/homecomponents/Light.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/homecomponents/Room.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/homecomponents/SmartHome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-783">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/loaders/SmartHomeLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smart-home.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/loaders/FileSmartHomeLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/commands/ActivateAlertAlarmCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/homecomponents/AlarmAlertState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/commands/LightsOnHallCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/commands/CloseHallDoorTurnLightsOffCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/commands/LightsOffHomeCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/commands/LightsOnHomeCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/turn_light_on_in_hall_in_initial_state.json" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/sbt/mipt/oop/commands/ActivateAlarmCommandTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="81" selection-start-line="14" selection-start-column="81" selection-end-line="14" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/sbt/mipt/oop/commands/ActivateAlertAlarmCommandTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/event/tools/RandomSensorEventProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/event/processors/DoorEventProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/event/processors/EventProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/event/tools/SensorEventProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/event/tools/EventManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/state_after_lights_events.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/lights_changing_sensor_events.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/initial_state.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/turn_lights_on_in_hall_in_initial_state.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/event/tools/HomeEventManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/close_hall_door_turn_lights_off_in_initial_state.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/doors_changing_sensor_events.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/events_provider.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/sbt/mipt/oop/event/processors/StartTestProcessor.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/sbt/mipt/oop/event/processors/DoorEventProcessorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" column="97" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="97" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/sbt/mipt/oop/event/processors/LightEventProcessorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/sbt/mipt/oop/commands/LightsOnHallCommandTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/sbt/mipt/oop/event/tools/TestEventProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/sbt/mipt/oop/commands/LightsOffHomeCommandTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/sbt/mipt/oop/commands/CommandTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/sbt/mipt/oop/commands/CloseHallDoorTurnLightsOffCommandTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/homecomponents/Alarm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1162#1163#0" expanded="true" />
+            <element signature="e#1195#1196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/homecomponents/AlarmActivatedState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/sbt/mipt/oop/event/tools/HomeEventManagerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="65" column="32" selection-start-line="65" selection-start-column="32" selection-end-line="65" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/sbt/mipt/oop/event/processors/Loaders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/initial_state_after_events_provider.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/sbt/mipt/oop/homecomponents/AlarmTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>smart-home</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.code.gson:gson:2.6.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,24 @@
+[
+  {
+    "type": "LIGHT_ON",
+    "objectId": "1"
+  },
+  {
+    "type": "LIGHT_ON",
+    "objectId": "2"
+  },
+  {
+    "type": "LIGHT_OFF",
+    "objectId": "3"
+  },
+  {
+    "type": "OPEN_DOOR",
+    "objectId": "1"
+  },
+  {
+    "type": "CLOSE_DOOR",
+    "objectId": "2"
+  },
+
+  null
+]

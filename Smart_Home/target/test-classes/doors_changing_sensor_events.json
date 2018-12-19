@@ -1,0 +1,10 @@
+[
+  {
+    "type": "OPEN_DOOR",
+    "objectId": "1"
+  },
+  {
+    "type": "CLOSE_DOOR",
+    "objectId": "2"
+  }
+]
